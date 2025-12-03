@@ -21,7 +21,7 @@ The final fraud detection model is chosen based on accuracy, recall, F1-score, c
 | Name          | Student ID | Role |
 |---------------|------------|------|
 | Jana Raed     | 13002886   | Data Exploration & EDA Visualization |
-| Karem Elfeal  | 13001824   | Modeling & Hyperparameter Tuning and presentation |
+| Karem Elfeel  | 13001824   | Modeling & Hyperparameter Tuning and pptx |
 | Yousef Magdy  | 13007105   | Evaluation, Error Analysis & Report Writing |
 | Yousef Taha   | 13001373   | Feature Engineering & Pipeline Integration |
 
