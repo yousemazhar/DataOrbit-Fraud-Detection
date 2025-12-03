@@ -15,6 +15,8 @@ The work follows the full end-to-end ML lifecycle:
 The final fraud detection model is chosen based on accuracy, recall, F1-score, cost optimization, and explainability criteria aligned with CMS audit requirements.
 
 ---
+report link 
+https://docs.google.com/document/d/1Rk9yIMIHGMdzFqlcMrNJYVNrKkDNnGurCOkW1JPDUEQ/edit?usp=sharing
 
 ## **Team Members**
 
