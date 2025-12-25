@@ -15,8 +15,12 @@ The work follows the full end-to-end ML lifecycle:
 The final fraud detection model is chosen based on accuracy, recall, F1-score, cost optimization, and explainability criteria aligned with CMS audit requirements.
 
 ---
-report link 
+Report Link 
 https://docs.google.com/document/d/1Rk9yIMIHGMdzFqlcMrNJYVNrKkDNnGurCOkW1JPDUEQ/edit?usp=sharing
+
+---
+Presentation Link
+https://gamma.app/docs/Detecting-Fraudulent-HealthInsurance-Claims-with-DataDriven-Metho-y8lg79wdkbiuyx0
 
 ## **Team Members**
 
